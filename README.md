@@ -1,4 +1,4 @@
-# ML2 classification decision trees XGBoost random forest neural networks
+# ML2 classification decision trees GBM random forest neural networks
 
 Project made as part of ['Machine Learning 2: predictive models, deep learning, neural network'](https://usosweb.wne.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&prz_kod=2400-DS2ML2) subjects at the University of Warsaw.
 
